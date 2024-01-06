@@ -10,4 +10,9 @@ Progress Tracking: Monitor your cleaning progress with an intuitive interface.
 Cleaning Tips: Access a library of effective cleaning techniques and tricks.
 Customizable Checklists: Create and manage personalized cleaning checklists.
 Collaboration Tools: Collaborate with family or roommates to delegate tasks.
-![simulator_screenshot_FD9BBF51-D8A4-4229-9C11-AED751AB284C](https://github.com/stevencanov/CleanApp/assets/11513122/57deae02-4fcf-4e88-868d-0404ab340747)
+
+
+
+
+https://github.com/stevencanov/CleanApp/assets/11513122/fa94bd53-94c8-44a4-bfde-c973ae60627c
+
